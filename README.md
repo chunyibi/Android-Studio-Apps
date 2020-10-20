@@ -6,7 +6,7 @@ You will learn:
 <li> How to set and change layouts.
 <li> How to add interactive buttons.
 <li> How to display a second screen when a button is pressed.
-<ol>
+</ol>
 
 ## What's here
 <ol> 
